@@ -16,7 +16,9 @@ In order to complete each of the challenges, you need to:
 
 ### Week 1 (starts on 2024-06-05)
 
-This week's challenge is about you [getting everything set up](setup/setup.md) and working! 
+This week's challenge is about you [getting everything set up](setup/setup.md) and working!
+
+Once you have completed the setup, please post the final screenshot as described in the Setup exercise on the SAP Community thread at: https://community.sap.com/t5/application-development-discussions/submissions-for-quot-sap-hana-cloud-multi-model-quot-developer-challenge/m-p/13722570#M2028356
 
 ## Requirements
 
