@@ -20,6 +20,10 @@ This week's challenge is about you [getting everything set up](setup/setup.md) a
 
 Once you have completed the setup, please post the final screenshot as described in the Setup exercise on the SAP Community thread at: https://community.sap.com/t5/application-development-discussions/submissions-for-quot-sap-hana-cloud-multi-model-quot-developer-challenge/m-p/13722570#M2028356
 
+### Week 2 (starts on 2024-06-12)
+
+Stay tuned...
+
 ## Requirements
 
 * A database user in SAP HANA Cloud database. The user should have required roles.
@@ -40,7 +44,7 @@ No known issues.
 
 Create an issue in this repository, if you find a bug or have questions about the content.
 
-For additional support, [ask a question in the thread - TBC](https://community.sap.com/t5/application-development-discussions/bd-p/application-developmentforum-board).
+For additional support, ask a question in the SAP Community thread: https://community.sap.com/t5/application-development-discussions/questions-re-quot-multi-model-with-sap-hana-cloud-quot-developer-challenge/m-p/13721632#M2028349
 
 ## Contributing
 
