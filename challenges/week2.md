@@ -1,6 +1,6 @@
 ## Week 2 Challenge: Words as Vectors in SAP HANA database
 
-During this week 2 of the June 2024 challenge you are going to use the Vector Engine of the SAP HANA database in the SAP HANA Cloud to load, store and process embeddings: words represented as vectors. Embeddings are used in many modern use cases invloving the Artificial Intelligence requiring the semantic search.
+During this week 2 of the June 2024 challenge you are going to use the [Vector Engine of the SAP HANA database](https://community.sap.com/t5/technology-blogs-by-sap/sap-hana-cloud-vector-engine-quick-faq-reference/ba-p/13675212) in the SAP HANA Cloud to load, store and process embeddings: words represented as vectors. Embeddings are used in many modern use cases invloving the Artificial Intelligence requiring the semantic search.
 
 In this exercise you will use embeddings already created with [Word2vec](https://code.google.com/archive/p/word2vec/) project.
 
