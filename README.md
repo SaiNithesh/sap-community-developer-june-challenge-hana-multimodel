@@ -22,6 +22,18 @@ Once you have completed the setup, please post the final screenshot as described
 
 ### Week 2 (starts on 2024-06-12)
 
+This week's challenge is about processing [Words as Vectors](challenges/week2.md).
+
+Once you have completed the setup, please post the final screenshot as described in the Setup exercise on the SAP Community thread at: https://community.sap.com/t5/application-development-discussions/submissions-for-quot-sap-hana-cloud-multi-model-quot-developer-challenge/td-p/13728400
+
+### Week 3 (starts on 2024-06-19)
+
+This week's challenge is about processing [Image Embeddings](challenges/week3.md).
+
+Once you have completed the setup, please post the final screenshot as described in the Setup exercise on the SAP Community thread at: https://community.sap.com/t5/application-development-discussions/submissions-for-quot-sap-hana-cloud-multi-model-quot-developer-challenge/m-p/13736471
+
+### Week 4 (starts on 2024-06-26)
+
 Stay tuned...
 
 ## Requirements
