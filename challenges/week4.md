@@ -1,6 +1,6 @@
 ## Week 4 Challenge: Geospatial and Graph
 
-During this week 4 of the June 2024 challenge, you are going to use the Geospatial data and Graph artifacts in the SAP HANA Cloud.
+During this week 4 of the June 2024 challenge, you are going to use the multi-model capabilities of SAP HANA Cloud: the Geospatial data and Graph artifacts.
 
 Similar to the previous week, this week you will experience different typos and errors in the provided Jupyter notebooks. You need to fix them and run both notebooks to the end successfuly.
 
@@ -12,7 +12,7 @@ Similar to the previous week, this week you will experience different typos and 
 
 2. Start (if needed) and open the dev space in the SAP Business Application Studio that you set up earlier.
 
-3. Get the week 4 notebooks `week4_*.ipynb` from the repository's [notebooks/challenges/](https://github.com/SAP-samples/sap-community-developer-challenge-hana-multimodel/tree/main/notebooks/challenges) directory.
+3. Get the week 4 notebooks `week4_*.ipynb` from the repository's [notebooks/challenges/](https://github.com/SAP-samples/sap-community-developer-challenge-hana-multimodel/tree/main/notebooks/challenges) directory into your project in the BAS dev space.
 
 You can use the Git extension in the SAP Business Aplication Studio (BAS), or Git commands in the terminal:
 
@@ -26,9 +26,9 @@ git pull
 
 4. Open the workspace file from the cloned project.
 
-5. Make sure that `HANAwPy` profile is open.
+5. Make sure that Business Application Studio's `HANAwPy` profile is set.
 
-6. Install the [Geopandas](https://geopandas.org/en/stable/about.html) and [contextily](https://contextily.readthedocs.io/en/latest/) packages into your virtual environment.
+6. Install the [Geopandas](https://geopandas.org/en/stable/about.html) and [contextily](https://contextily.readthedocs.io/en/latest/) open-source packages into your virtual environment.
 
 In the Terminal session activate the Python's virtual environment `.venv` set during the [setup exercise](../setup/setup.md).
 
@@ -44,7 +44,7 @@ pip install --require-virtualenv geopandas contextily
 
 ![](resources/w4_070_pipPackages.jpeg)
 
-8. Open and execute `week4*` notebooks from the `challenges` sub-folder in `notebooks`.
+7. Open and execute `week4*` notebooks from the `challenges` sub-folder in `notebooks`.
 
 Note that the `solutions` subfolder will not contain `week4*` notebooks with the correct code before June 26th, 2024 🤓, when the challenge is over.
 
