@@ -4,6 +4,10 @@ During this week 4 of the June 2024 challenge, you are going to use the multi-mo
 
 Similar to the previous week, this week you will experience different typos and errors in the provided Jupyter notebooks. You need to fix them and run both notebooks to the end successfuly.
 
+> [!IMPORTANT] 
+> Not all errors are obvious, so make sure your check as well documentation pages, where provided before particular cells!
+> Please check as well similar cells earlier in the same or previous notebooks 🤓
+
 ### Let's go!
 
 1. Check that your instance of the SAP HANA database in the SAP Business Technology Platform is running.
