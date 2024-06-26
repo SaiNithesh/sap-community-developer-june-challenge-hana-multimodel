@@ -24,21 +24,23 @@ Once you have completed the setup, please post the final screenshot as described
 
 This week's challenge is about processing [Words as Vectors](challenges/week2.md).
 
-Once you have completed the setup, please post the final screenshot as described in the Setup exercise on the SAP Community thread at: https://community.sap.com/t5/application-development-discussions/submissions-for-quot-sap-hana-cloud-multi-model-quot-developer-challenge/td-p/13728400
+Once you have completed notebooks, please post the final screenshot - as described at the end of the 2nd notebook - on the SAP Community thread at: https://community.sap.com/t5/application-development-discussions/submissions-for-quot-sap-hana-cloud-multi-model-quot-developer-challenge/td-p/13728400
 
 ### Week 3 (starts on 2024-06-19)
 
 This week's challenge is about processing [Image Embeddings](challenges/week3.md).
 
-Once you have completed the setup, please post the final screenshot as described in the Setup exercise on the SAP Community thread at: https://community.sap.com/t5/application-development-discussions/submissions-for-quot-sap-hana-cloud-multi-model-quot-developer-challenge/m-p/13736471
+Once you have completed notebooks, please post the final screenshot - as described at the end of the 2nd notebook - on the SAP Community thread at: https://community.sap.com/t5/application-development-discussions/submissions-for-quot-sap-hana-cloud-multi-model-quot-developer-challenge/m-p/13736471
 
 ### Week 4 (starts on 2024-06-26)
 
-Stay tuned...
+This week's challenge is about processing [Geospatial data and Graphs](challenges/week4.md).
+
+Once you have completed notebooks, please post the final screenshot - as described at the end of the 2nd notebook - on the SAP Community thread at: https://community.sap.com/t5/application-development-discussions/submissions-for-quot-sap-hana-cloud-multi-model-quot-developer-challenge/td-p/13743532
 
 ## Requirements
 
-* A database user in SAP HANA Cloud database. The user should have required roles.
+* A database user in SAP HANA Cloud database. The user should have required roles as described in the [Setup](setup/setup.md).
 
 ## Download and Installation
 
@@ -46,7 +48,7 @@ You can fork or clone this repository.
 
 ## Recommended Learning
 
-There is quite a lot to digest when working in the world of multi-model data.
+There is quite a lot to digest when working in the world of multi-model data, but you may recorgnize that challanges have been based on the demos from SAP TechEd conferences in the previous years, incl. [SAP HANA Vector Engine demo at SAP TechEd 2023](https://www.youtube.com/live/kLbF0ooStZs?si=FNuUHZiQgcy-VRhR&t=2127).
 
 ## Known Issues
 
