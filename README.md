@@ -38,6 +38,52 @@ This week's challenge is about processing [Geospatial data and Graphs](challenge
 
 Once you have completed notebooks, please post the final screenshot - as described at the end of the 2nd notebook - on the SAP Community thread at: https://community.sap.com/t5/application-development-discussions/submissions-for-quot-sap-hana-cloud-multi-model-quot-developer-challenge/td-p/13743532
 
+## Participants of this developer challenge
+
+### Completed all 4 weeks 🥇
+* [Cocquerel](https://community.sap.com/t5/user/viewprofilepage/user-id/754)
+* [raulruiz](https://community.sap.com/t5/user/viewprofilepage/user-id/983)
+* [mvinci](https://community.sap.com/t5/user/viewprofilepage/user-id/160444)
+* [sagarsv](https://community.sap.com/t5/user/viewprofilepage/user-id/758230)
+* [gphadnis2000](https://community.sap.com/t5/user/viewprofilepage/user-id/11756)
+* [moh_ali_square](https://community.sap.com/t5/user/viewprofilepage/user-id/826)
+* [geek](https://community.sap.com/t5/user/viewprofilepage/user-id/9180)
+* [Alpesa1990](https://community.sap.com/t5/user/viewprofilepage/user-id/45643)
+* [MioYasutake](https://community.sap.com/t5/user/viewprofilepage/user-id/789)
+* [mwn](https://community.sap.com/t5/user/viewprofilepage/user-id/5825)
+* [SaiNithesh_Gajula](https://community.sap.com/t5/user/viewprofilepage/user-id/595)
+* [M-K](https://community.sap.com/t5/user/viewprofilepage/user-id/17170)
+* [tobiasz_h](https://community.sap.com/t5/user/viewprofilepage/user-id/12314)
+* [jpenninkhof](https://community.sap.com/t5/user/viewprofilepage/user-id/14456)
+* [sabarna17](https://community.sap.com/t5/user/viewprofilepage/user-id/147402)
+* [satyasundar3](https://community.sap.com/t5/user/viewprofilepage/user-id/38745)
+* [DirkO](https://community.sap.com/t5/user/viewprofilepage/user-id/38461)
+* [SushmitaG](https://community.sap.com/t5/user/viewprofilepage/user-id/14256)
+* [noravonthenen](https://community.sap.com/t5/user/viewprofilepage/user-id/7343)
+
+### Completed at least one of Weeks 2-4 🥈
+* [emiliocampo](https://community.sap.com/t5/user/viewprofilepage/user-id/43545)
+* [jens_borau](https://community.sap.com/t5/user/viewprofilepage/user-id/124937)
+* [christof_m](https://community.sap.com/t5/user/viewprofilepage/user-id/437812)
+* [asushko](https://community.sap.com/t5/user/viewprofilepage/user-id/1473465)
+* [asm_sapdev](https://community.sap.com/t5/user/viewprofilepage/user-id/140517)
+* [Leela_Sankar_PV](https://community.sap.com/t5/user/viewprofilepage/user-id/166313)
+* [CameronWilson](https://community.sap.com/t5/user/viewprofilepage/user-id/1451670)
+* [ceedee666](https://community.sap.com/t5/user/viewprofilepage/user-id/10851)
+* [reachdebopriya](https://community.sap.com/t5/user/viewprofilepage/user-id/121536)
+
+### Completed Setup only 🥉
+* [ajmaradiaga](https://community.sap.com/t5/user/viewprofilepage/user-id/107)
+* [johna69](https://community.sap.com/t5/user/viewprofilepage/user-id/1511)
+* [chirag_makwana](https://community.sap.com/t5/user/viewprofilepage/user-id/228136)
+* [VS_Chandu](https://community.sap.com/t5/user/viewprofilepage/user-id/15287)
+* [JerryW](https://community.sap.com/t5/user/viewprofilepage/user-id/4488)
+* [Srijani](https://community.sap.com/t5/user/viewprofilepage/user-id/1394902)
+* [DenisGaland](https://community.sap.com/t5/user/viewprofilepage/user-id/10283)
+* [Jordi_C](https://community.sap.com/t5/user/viewprofilepage/user-id/1425142)
+* [Ruthiel](https://community.sap.com/t5/user/viewprofilepage/user-id/120859)
+* [satya-dev](https://community.sap.com/t5/user/viewprofilepage/user-id/151998)
+
 ## Requirements
 
 * A database user in SAP HANA Cloud database. The user should have required roles as described in the [Setup](setup/setup.md).
